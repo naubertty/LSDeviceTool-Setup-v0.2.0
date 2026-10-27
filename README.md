@@ -1,0 +1,1 @@
+# LSDeviceTool-Setup-v0.2.0
